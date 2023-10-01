@@ -49,8 +49,8 @@
 
 ## Jupyter Notebook files
 
-- [Jupyter notebook](https://github.com/Lmuliokela/python-api-challenge/blob/main/VacationPy.ipynb)
-
+- [Jupyter notebook- VacationPy](https://github.com/Lmuliokela/python-api-challenge/blob/main/VacationPy.ipynb)
+- [Jupyter notebook- WeatherPy](https://github.com/Lmuliokela/python-api-challenge/blob/main/WeatherPy.ipynb)
 
 
 
