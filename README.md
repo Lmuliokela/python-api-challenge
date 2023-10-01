@@ -43,10 +43,6 @@
 
 ---
 
-## Input files
-
----
-
 ## Jupyter Notebook files
 
 - [Jupyter notebook- VacationPy](https://github.com/Lmuliokela/python-api-challenge/blob/main/VacationPy.ipynb)
